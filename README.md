@@ -1,14 +1,15 @@
-# Containerizing a Node JS and Express REST API
+# Containerizing a Node JS and Express REST API | Tutorial and Sample Code
 
-In this repository you will find basic boiler plate code for building a Node JS and Express REST API. 
+You can view this tutorial at my [**Youtube Channel**](https://youtube.com).
 
-Clone Git Repository for Node JS API
-NPM Install dependencies 
-Run API and showcase test in Postman
-Create a route that will serve HTML with a Docker logo image
-Create dockerfile and dockerignore file 
-Explain dockerfile composition
-Build docker image with tag 
-Run container as a daemon 
-Test in browser and postman
-End Demo
+In this repository you will find the code for a simple REST API built using Node JS and Express along with the Dockerfile for containerizing the API. 
+
+## What will you learn?
+
+- What are Containers?
+- What is Docker?
+- Serve static (HTML/JPG) files in Express
+- Create a Dockerfile for Node JS 
+- Build your Docker image 
+- Run your Docker image as a container 
+- Test your containerized REST API using Postman and Browser
