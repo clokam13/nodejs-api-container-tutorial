@@ -1,6 +1,6 @@
 # Containerizing a Node JS and Express REST API | Tutorial and Sample Code
 
-You can view this tutorial at my [**Youtube Channel**](https://youtube.com).
+You can view this tutorial at my [**Youtube Channel**](https://www.youtube.com/watch?v=waKaGikF_Ig).
 
 In this repository you will find the code for a simple REST API built using Node JS and Express along with the Dockerfile for containerizing the API. 
 
